@@ -1,0 +1,10 @@
+C:\Ohjelmointi\C# projects\NoteApp2\bin\Debug\NoteApp2.exe.config
+C:\Ohjelmointi\C# projects\NoteApp2\bin\Debug\NoteApp2.exe
+C:\Ohjelmointi\C# projects\NoteApp2\bin\Debug\NoteApp2.pdb
+C:\Ohjelmointi\C# projects\NoteApp2\obj\Debug\NoteApp2.csproj.AssemblyReference.cache
+C:\Ohjelmointi\C# projects\NoteApp2\obj\Debug\NoteApp2.NoteTaker.resources
+C:\Ohjelmointi\C# projects\NoteApp2\obj\Debug\NoteApp2.Properties.Resources.resources
+C:\Ohjelmointi\C# projects\NoteApp2\obj\Debug\NoteApp2.csproj.GenerateResource.cache
+C:\Ohjelmointi\C# projects\NoteApp2\obj\Debug\NoteApp2.csproj.CoreCompileInputs.cache
+C:\Ohjelmointi\C# projects\NoteApp2\obj\Debug\NoteApp2.exe
+C:\Ohjelmointi\C# projects\NoteApp2\obj\Debug\NoteApp2.pdb
